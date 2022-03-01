@@ -1,0 +1,458 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A merry discourse betweene Norfolke Thomas, and Sisly Standtoo't his wife; together with their thanklesse journey from Norfolk to London, onely to see their friends, and how they doe respect and entertaine 'um for their love and labour. Which shewes that this same age most certaine true, is onely for to aske yee how ye doe. To the tune of the Spanish Pavin.</title>
+            <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1638</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00049</idno>
+            <idno type="STC">STC 11155</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[270]</idno>
+            <idno type="EEBO-CITATION">99884359</idno>
+            <idno type="PROQUEST">ocm99884359</idno>
+            <idno type="VID">183060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183060)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[144])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A merry discourse betweene Norfolke Thomas, and Sisly Standtoo't his wife; together with their thanklesse journey from Norfolk to London, onely to see their friends, and how they doe respect and entertaine 'um for their love and labour. Which shewes that this same age most certaine true, is onely for to aske yee how ye doe. To the tune of the Spanish Pavin.</title>
+                  <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.P. for F.C.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1638?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Ed. Ford.</note>
+                  <note>Verse: "Thomas. To London is mad Thomas come ..."</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="270" facs="tcp:183060:1" rendition="simple:additions"/>
+            <head>A merry Diſcourſe betweene Norfolke <hi>Thomas,</hi> and <hi>Siſly Standtoo't</hi> his Wife; Together with their thankleſſe journey from <hi>Norfolk</hi> to <hi>London,</hi> onely to ſee their friends, and how they doe reſpect and entertaine 'um for their love and labour.</head>
+            <argument>
+               <q>
+                  <l>Which ſhewes that this ſame Age moſt certaine true,</l>
+                  <l>Is onely for to aske yee how ye doe.</l>
+               </q>
+            </argument>
+            <opener>To the tune of the Spaniſh Pavin.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <speaker>Thomas.</speaker>
+                  <lg>
+                     <l>TO <hi>London</hi> is mad <hi>Thomas</hi> come,</l>
+                     <l>With <hi>Siſly</hi> here, his Wife alone,</l>
+                     <l>To ſée ſome friends, I hear are gone,</l>
+                     <l>to heaven a while ago.</l>
+                     <l>But I do hope it is a lye,</l>
+                     <l>As I ſhall find it by and by,</l>
+                     <l>Or elſe poore <hi>Tom</hi> and <hi>Siſſe</hi> ſhould cry,</l>
+                     <l>till Doomes-day.</l>
+                  </lg>
+                  <l>For though they be none of the beſt,</l>
+                  <l>I ſhould be loath I do proteſt,</l>
+                  <l>To hear that they are gone to reſt,</l>
+                  <l>and never take their leave.</l>
+                  <l>For I do love 'um all ſo well,</l>
+                  <l>A little thing would make me dwell,</l>
+                  <l>Within the ſounding of Bow-bell,</l>
+                  <l>at <hi>London.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Siſly.</speaker>
+                  <lg>
+                     <l>Nay husband do not you ſay ſo,</l>
+                     <l>Our Cottage poore wée'l not forgo,</l>
+                     <l>For the beſt houſe that ſtands aroe,</l>
+                     <l>'twixt Cheap and Charing Croſſe.</l>
+                     <l>For though our houſe be thatch't with Straw,</l>
+                     <l>We do not live as ſome in awe,</l>
+                     <l>For 'tis our own by Common law,</l>
+                     <l>in <hi>Norfolke.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Beſides we live at hearts content,</l>
+                     <l>We take no care to pay our Rent,</l>
+                     <l>For that is done incontinent</l>
+                     <l>or twinkling of an eye.</l>
+                     <l>When here at <hi>London</hi> as they ſay,</l>
+                     <l>They brawle and brable every day,</l>
+                     <l>And few or none but finds a way</l>
+                     <l>to <hi>Hogdſdon.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Thomas.</speaker>
+                  <lg>
+                     <l>Mum <hi>Siſly</hi> kéep your Clapper ſtill</l>
+                     <l>There's them can hear at <hi>Hygat</hi> hill,</l>
+                     <l>There's Rats has béen in <hi>Peggies</hi> Mill,</l>
+                     <l>or elſe ſhe lies her ſelfe.</l>
+                     <l>What if the world be vilde and bad,</l>
+                     <l>Shall I be ſuch a fooliſh Lad</l>
+                     <l>To blaze and noyſe it all abroad,</l>
+                     <l>I ſcorn it.</l>
+                  </lg>
+                  <lg>
+                     <l>Although, indéed I muſt confeſſe,</l>
+                     <l>Thou ſpeak'ſt but truth my honeſt <hi>Siſſe,</hi>
+                     </l>
+                     <l>Yet ever while you live, marke this,</l>
+                     <l>and take it for a rule.</l>
+                     <l>That every Chimney muſt not ſmoake,</l>
+                     <l>Nor every Begger weare a Cloake,</l>
+                     <l>Nor every truth muſt not be ſpoke,</l>
+                     <l>in ſadneſſe.</l>
+                  </lg>
+                  <lg>
+                     <l>But hang that Cobler and his Ends,</l>
+                     <l>That lives too well and never mends,</l>
+                     <l>Wood they were whipt that nere offends,</l>
+                     <l>peace Chuck, I mean not thée.</l>
+                     <l>For thou wilt ſcold ſometime I know,</l>
+                     <l>The more is <hi>Thomas Standtoots</hi> wo,</l>
+                     <l>But hang it; come lets trip and go to</l>
+                     <l>Fléetſtréet.</l>
+                  </lg>
+                  <lg>
+                     <l>And thus they trudg'd along the ſtréet,</l>
+                     <l>With many a juſtle they did méet,</l>
+                     <l>Which put poore <hi>Thomas</hi> in a ſweat,</l>
+                     <l>and ſomething angry to.</l>
+                     <l>Which made him think they told a lye</l>
+                     <l>That ſaid there did ſo many dye,</l>
+                     <l>When as he could not go hardly,</l>
+                     <l>for people,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Siſly.</speaker>
+                  <lg>
+                     <l>At length quoth ſhe, good husband ſtay</l>
+                     <l>And tell me what this place is pray,</l>
+                     <l>Where things are carried as they may,</l>
+                     <l>I never ſaw the like.</l>
+                     <l>For yonders one doth ride in ſtate,</l>
+                     <l>And heares a Begger at a gate</l>
+                     <l>And there's a woman that will prate</l>
+                     <l>for nothing.</l>
+                  </lg>
+                  <lg>
+                     <l>Sée here is one that ſoundly beats,</l>
+                     <l>And thumps his Hemp untill he ſweats,</l>
+                     <l>And there's another gréedy eats,</l>
+                     <l>I fear hee'l choak himſelfe,</l>
+                     <l>And yonder goes a gallant bilk,</l>
+                     <l>And there's a woman winding ſilk,</l>
+                     <l>And heares another fetches milk</l>
+                     <l>at Hackney.</l>
+                  </lg>
+                  <lg>
+                     <l>But here's the prettieſt ſight of all,</l>
+                     <l>A woman that is mighty tall,</l>
+                     <l>And yet her Spouſe a little ſquall,</l>
+                     <l>I wonder how they met.</l>
+                     <l>And heres a man in Armour ſtands,</l>
+                     <l>That has it ſeemes loſt both his hands,</l>
+                     <l>'Tis pitty that he has no lands</l>
+                     <l>to keep him.</l>
+                  </lg>
+               </sp>
+               <p>Now you muſt by this time ſuppoſe them about the Exchange.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="271" facs="tcp:183060:1" rendition="simple:additions"/>
+               <head>The ſecond part.</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <lg>
+                     <l>ANd heres a world of people fine,</l>
+                     <l>That do in Silks and Satins ſhine,</l>
+                     <l>I wood that Suite and Cloak were mine,</l>
+                     <l>I hope I wiſh no harme.</l>
+                     <l>And here hangs Pictures two or thrée,</l>
+                     <l>The beſt that ever I did ſée,</l>
+                     <l>I thinke one looks full butt at me,</l>
+                     <l>and laughs too.</l>
+                  </lg>
+                  <lg>
+                     <l>And heres a man hath many a Rat,</l>
+                     <l>Both in his hand, and on his Hat,</l>
+                     <l>Me thinks he kéeps 'um very fat,</l>
+                     <l>O ſtrange what tailes they have.</l>
+                     <l>And heres a Gentle-women too,</l>
+                     <l>That hides her face from me and you,</l>
+                     <l>I wonder what ſhe meanes to do</l>
+                     <l>in Summer.</l>
+                  </lg>
+                  <lg>
+                     <l>And heres an empty Church I ſée,</l>
+                     <l>Great pitty 'tis moſt certainly,</l>
+                     <l>It ſhould indeed no fuller be,</l>
+                     <l>and all theſe people here.</l>
+                     <l>And there's an old man carries wood,</l>
+                     <l>And heres a yong man doth no good,</l>
+                     <l>And heres a woman wears a hood,</l>
+                     <l>hey Dazie.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Thomas.</speaker>
+                  <lg>
+                     <l>Come <hi>Siſly</hi> let us go along</l>
+                     <l>And not ſtand gaping hear among</l>
+                     <l>A ſort of people that do throng,</l>
+                     <l>I never ſaw the like.</l>
+                     <l>But let us to our brother go,</l>
+                     <l>That will us welcome well I know,</l>
+                     <l>For he himſelfe did tell me ſo,</l>
+                     <l>at <hi>Norfolke.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Soft, let us knock for heres the doore,</l>
+                     <l>But if becauſe our cloathes be poore,</l>
+                     <l>They ſhould not let us in therefore,</l>
+                     <l>t'wod make a dog to laugh.</l>
+                     <l>For I have heard my mother ſay,</l>
+                     <l>That if a man fall to decay,</l>
+                     <l>There's few or none will bid him ſtay,</l>
+                     <l>y'are welcome.</l>
+                  </lg>
+                  <lg>
+                     <l>But ſilence, not a word but mum,</l>
+                     <l>For ſee our brother now doth come,</l>
+                     <l>Me thinks he looks as he were dum,</l>
+                     <l>what makes him not to ſpeake.</l>
+                     <l>Good brother we our loves unfold,</l>
+                     <l>For though my <hi>Siſſe</hi> and I am old,</l>
+                     <l>Yet we have made a little bold</l>
+                     <l>to ſee you.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Brother.</speaker>
+                  <lg>
+                     <l>And truly I do thank you for't,</l>
+                     <l>Ye'r welcome both with all my heart,</l>
+                     <l>Wee'l drink a Cup before we part,</l>
+                     <l>ant pleaſe you but to ſtay.</l>
+                     <l>For I have friends within truly,</l>
+                     <l>That if they ſhould a ſtranger ſee,</l>
+                     <l>They ſtrait woo very fearfull be</l>
+                     <l>of danger.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Thomas.</speaker>
+                  <lg>
+                     <l>Why Brother we no ſickneſſe have,</l>
+                     <l>Nor are we ſtarted from our grave,</l>
+                     <l>Your love is all that we do crave,</l>
+                     <l>what need you then to feare,</l>
+                     <l>We do not come to eat your roaſt</l>
+                     <l>Nor yet to put you unto coſt,</l>
+                     <l>But now I ſee our labours loſt</l>
+                     <l>poore <hi>Siſly.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Brother.</speaker>
+                  <lg>
+                     <l>Pray do not think the fault is mine,</l>
+                     <l>For if you'l drink a Pint of wine,</l>
+                     <l>Ile give it you, and nere repine,</l>
+                     <l>hang mony what care I.</l>
+                     <l>And had I not ſo many Gheſſe,</l>
+                     <l>Indeed I ſeriouſly profeſſe,</l>
+                     <l>Your welcome ſhould be more or leſſe,</l>
+                     <l>good Brother.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Thomas.</speaker>
+                  <lg>
+                     <l>No thank you Brother, éene farewell,</l>
+                     <l>A blind man now with eaſe may ſmell,</l>
+                     <l>That all things is not carried well,</l>
+                     <l>what love pray call you this.</l>
+                     <l>Come now unto thy Siſter we</l>
+                     <l>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ill go with all ſelerity,</l>
+                     <l>No doubt that ſhe ſhall kinder be,</l>
+                     <l>unto us.</l>
+                  </lg>
+               </sp>
+               <lg>
+                  <l>They condeſcend and were content</l>
+                  <l>So to their Siſter ſtraight they went,</l>
+                  <l>But all in vain their time was ſpent</l>
+                  <l>for when they thither came.</l>
+                  <l>Their Siſter did her Maid compell,</l>
+                  <l>And bid her thus much to them tell,</l>
+                  <l>Indeed ſhe was not very well,</l>
+                  <l>at that time.</l>
+               </lg>
+               <lg>
+                  <l>From thence they to their couzen go,</l>
+                  <l>Being much deſirous for to know,</l>
+                  <l>Whether that ſhe wood ſerve 'um ſo.</l>
+                  <l>or uſe 'um in that kind.</l>
+                  <l>But being there this newes was brought,</l>
+                  <l>That ſhe a ſmock had newly bought,</l>
+                  <l>And ſhe was gone to have it wrought</l>
+                  <l>with Wooſted.</l>
+               </lg>
+               <sp>
+                  <lg>
+                     <l>Well now ſayes <hi>Thomas</hi> to his Dear,</l>
+                     <l>What ſay'ſt thou <hi>Siſly</hi> to this gear,</l>
+                     <l>We far have gone, yet nere the near,</l>
+                     <l>We thank our kindred for't.</l>
+                     <l>But if that brothers be ſo kind</l>
+                     <l>What favour ſhall a ſtranger find,</l>
+                     <l>Proteſt it troubles much my mind,</l>
+                     <l>to think on't.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Siſly.</speaker>
+                  <lg>
+                     <l>Nay Husband let us not do ſo,</l>
+                     <l>The beſt is we can homewards go,</l>
+                     <l>And yet not trouble friend nor foe,</l>
+                     <l>what need we then to care.</l>
+                     <l>For now each one I tell you true,</l>
+                     <l>Will only ask you how do you,</l>
+                     <l>I am glad to ſee you well, Sir <hi>Hugh,</hi>
+                     </l>
+                     <l>good morrow.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Thomas.</speaker>
+                  <lg>
+                     <l>Why then old <hi>Siſly</hi> thou and I,</l>
+                     <l>Will back again to <hi>Norfolke</hi> hie,</l>
+                     <l>And bid a fig for company:</l>
+                     <l>our Dog is ſport enough.</l>
+                     <l>But when we come to <hi>London</hi> next,</l>
+                     <l>Our friends ſhall have a better Text,</l>
+                     <l>I ſwear and vow I am ſoundly vext,</l>
+                     <l>who cares for't.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>M. P.</hi> for <hi>F. C. Finis<g ref="char:punc">▪</g> Ed. Ford.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
